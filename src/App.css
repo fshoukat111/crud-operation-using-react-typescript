@@ -1,0 +1,11 @@
+.main-app{
+  display: flex;
+  justify-content: center;
+}
+.divivde{
+  width: 550px;
+  padding-top: 30px;
+}
+.todo-list{
+  padding-top: 20px;
+}
